@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectAvatar.Plugins", "KinectAvatar.Plugins.csproj", "{F4ACEFC6-D522-6047-3017-82C7F6965439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectAvatar", "KinectAvatar.csproj", "{9CD6C125-911D-2E62-716E-D7D617EE5379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectAvatar.Editor.Plugins", "KinectAvatar.Editor.Plugins.csproj", "{1FA2F480-C39A-1152-5982-668A393E9B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4ACEFC6-D522-6047-3017-82C7F6965439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ACEFC6-D522-6047-3017-82C7F6965439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ACEFC6-D522-6047-3017-82C7F6965439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ACEFC6-D522-6047-3017-82C7F6965439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD6C125-911D-2E62-716E-D7D617EE5379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD6C125-911D-2E62-716E-D7D617EE5379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD6C125-911D-2E62-716E-D7D617EE5379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD6C125-911D-2E62-716E-D7D617EE5379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA2F480-C39A-1152-5982-668A393E9B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA2F480-C39A-1152-5982-668A393E9B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA2F480-C39A-1152-5982-668A393E9B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA2F480-C39A-1152-5982-668A393E9B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
